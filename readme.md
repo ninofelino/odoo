@@ -1,0 +1,1 @@
+odoo-bin scaffold <module name> <where to put it>

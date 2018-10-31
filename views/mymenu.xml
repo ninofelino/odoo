@@ -1,0 +1,10 @@
+<?xml  version="1.0"?>  
+<odoo>  
+  <act_window  id="action_myconference"  
+      name="NuansaBaru Applikasi"  
+      res_model="myconferences.myconf"
+      view_mode="tree,form"  />  
+  <menuitem  id="menu_myconference"  
+      name="NuansaBaru Aplikasi"  
+      action="action_myconference"  />  
+</odoo>
