@@ -1,21 +1,25 @@
 <odoo>
   <data>
+  
     <!-- explicit list view definition -->
-    <!--
+    
+<!--
     <record model="ir.ui.view" id="felino.list">
+      <h1>Import App</h1>
       <field name="name">felino list</field>
       <field name="model">felino.felino</field>
       <field name="arch" type="xml">
         <tree>
           <field name="name"/>
-          ppp
+          
           <field name="value"/>
           <field name="value2"/>
         </tree>
       </field>
+      
     </record>
-    -->
-
+    
+ --> 
     <!-- actions opening views on models -->
     <!--
     <record model="ir.actions.act_window" id="felino.action_window">
